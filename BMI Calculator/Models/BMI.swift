@@ -7,3 +7,4 @@ struct BMI {
     let color: UIColor
 }
 //test 2
+//test 3
