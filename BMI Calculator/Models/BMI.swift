@@ -6,4 +6,3 @@ struct BMI {
     let advice: String
     let color: UIColor
 }
-//test1
